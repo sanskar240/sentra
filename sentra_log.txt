@@ -1,0 +1,2 @@
+[2025-04-03 12:36:36.106178] ALERT - IP: 185.12.34.56, Score: 8, Location: Moscow, Russia, Time: 02:30 AM UTC
+[2025-04-03 12:37:02.392669] User whitelisted IP: 185.12.34.56
